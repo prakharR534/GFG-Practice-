@@ -22,6 +22,7 @@ int main()
         int q;
         cin>>q;
         deque<int> A;
+	    
         while(q--)
         {
             int c;
