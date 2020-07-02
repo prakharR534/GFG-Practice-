@@ -15,6 +15,7 @@ using namespace std;
 */
 int findFrequency(vector<int> v, int x){
     
+	
     // Your code here
    return count(v.begin(), v.end(),x);
     
@@ -39,6 +40,7 @@ int main() {
 	        
 	    // Taking vector element input
 	    for(int i = 0;i<N;i++){
+		    
 	        int k;
 	        cin >> k;
 	        v.push_back(k);
