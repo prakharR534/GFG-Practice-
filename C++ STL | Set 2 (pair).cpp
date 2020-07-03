@@ -4,7 +4,9 @@ using namespace std;
 
 void add_pair(vector<pair<string,pair<int,int> > > &A,string str,int x,int y);
 int get_size(vector<pair<string,pair<int,int> > > &A);
+
 void print_values(vector<pair<string,pair<int,int> > > &A);
+
 void sort_pair(vector<pair<string,pair<int,int> > > &A);
 
 int main() {
