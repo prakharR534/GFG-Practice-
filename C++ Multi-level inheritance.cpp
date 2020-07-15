@@ -11,6 +11,7 @@ class student
         
     public:
         void set_number(int a)
+		
         {
             roll_number = a;
         }
