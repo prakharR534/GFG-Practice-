@@ -2,6 +2,7 @@
 //Initial Template for C++
 #include<bits/stdc++.h>
 using namespace std;
+
 void print(deque <int> &A);
 void add_in_back(deque <int> &A,int x);
 void remove_from_back(deque <int> &A);
