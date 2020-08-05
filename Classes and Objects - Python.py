@@ -23,7 +23,8 @@ def fusion(a,b):
     ##This function takes two Character objects as parameter
     ## Create a new object that has name equal to first-half of a's name + last-half of b's name
     ## Also new object's hp is the sum of a's hp + b's hp
-    ##return the newly created object
+    ##return the newly created object 
+    
     
     HP = a.hp + b.hp
     sw = a.name[:int(len(a.name)/2)] + b.name[int(len(b.name)/2):]
