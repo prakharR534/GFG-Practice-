@@ -6,6 +6,7 @@ vector <int> bfs(vector<int> g[], int N) {
     int s=0;
     visited[0] = true;//init node mareked as visited true
     
+    
     vector<int>result;
     queue<int>q;
     q.push(s); //push the source in queue
