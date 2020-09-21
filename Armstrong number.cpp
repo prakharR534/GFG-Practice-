@@ -9,6 +9,8 @@
 
 //User function Template for C
 
+
+
 void check_armstrong(int n)
 {
    // your code here
