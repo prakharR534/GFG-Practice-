@@ -12,6 +12,7 @@ int main() {
 	while(testcase--){
 	    int N;
 	    cin >> N;
+		
         
         // Declaring dynamic 1D array
         int *arr = new int[N];
