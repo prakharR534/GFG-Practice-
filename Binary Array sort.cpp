@@ -8,7 +8,6 @@ void binSort(int A[], int N);
 
 int main() {
 
-
 	int T;
 	cin>>T;
 	// Input the number of testcases
