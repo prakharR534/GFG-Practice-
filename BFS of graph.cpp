@@ -13,6 +13,7 @@ vector <int> bfs(vector<int> g[], int N) {
     while(!q.empty()){
         int t = q.front();
         result.push_back(t);
+        
         q.pop();
         
         for(int v:g[t]){
