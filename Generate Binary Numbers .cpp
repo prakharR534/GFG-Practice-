@@ -4,6 +4,7 @@ vector<string> generate(ll n)
 	// Your code here
 	queue<string>q;
 	vector<string>v;
+	
 	string p;
 	q.push("1");
 	while(n--){
