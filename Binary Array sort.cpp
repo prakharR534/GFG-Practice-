@@ -2,9 +2,7 @@
 // A Sample C++ program for beginners with Competitive Programming
 #include <iostream>
 using namespace std;
-
 void binSort(int A[], int N);
-
 
 int main() {
 
