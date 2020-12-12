@@ -11,6 +11,7 @@ vector <int> bfs(vector<int> g[], int N) {
     queue<int>q;
     q.push(s); //push the source in queue
     while(!q.empty()){
+        
         int t = q.front();
         result.push_back(t);
         
