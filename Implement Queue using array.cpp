@@ -10,6 +10,7 @@ struct QueueNode
 
 class MyQueue {
 private:
+    
     int arr[100005];
     int front;
     int rear;
