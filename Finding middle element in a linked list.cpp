@@ -12,6 +12,7 @@ int getMiddle(Node *head)
    if(count%2==0) n=count/2 ;
    else n = count/2 + 1;
    
+   
    Node *t1 = head;
    for(int i=0;i<n;i++){
        t1 = t1->next;
