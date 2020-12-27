@@ -11,6 +11,7 @@ int main() {
 	// Input the number of testcases
 	while(T--)
 	{
+		
 	    int N;
 	    cin>>N; //Input size of array N
 	    int A[N]; 
