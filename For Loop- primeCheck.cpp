@@ -6,6 +6,7 @@ using namespace std;
 
 void isPrime(int n);
 
+
  // } Driver Code Ends
 
 
@@ -26,9 +27,7 @@ else{
         if(n % i == 0){
             c++;
         }
-        
-       
-        
+               
     }
      if(c==0 ) cout<<"Yes";
     else cout<<"No";
